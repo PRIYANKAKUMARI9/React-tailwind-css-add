@@ -1,0 +1,23 @@
+.header{
+    width: 100%;
+    background-color: blue;
+    padding: 30px;
+    font-size: 30px;
+    color: white;
+}
+.para{
+    width: 30%;
+    background-color: brown;
+    padding: 30px;
+    color: white;
+    font-size: 40px;
+    margin-left: 35%;
+    border-radius: 30px;
+}
+.last{
+    width: 100%;
+    background-color: blue;
+    font-size: 30px;
+    color: white;
+    padding: 30px;
+}
